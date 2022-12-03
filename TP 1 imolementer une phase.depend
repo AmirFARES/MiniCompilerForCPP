@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574191571 source:e:\c++\s3\tp 1 imolementer une phase\main.cpp
+	<iostream>
+	"GestPile.h"
+	<cmath>
+
+1572809841 e:\c++\s3\tp 1 imolementer une phase\gestpile.h
+	<iostream>
+
